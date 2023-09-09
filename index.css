@@ -1,0 +1,13 @@
+.link {
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+.link:hover {
+    cursor: pointer;
+    color: rgb(177, 177, 177);
+    text-decoration: none;
+    font-size: xx-large;
+}
